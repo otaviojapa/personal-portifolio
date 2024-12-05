@@ -1,0 +1,11 @@
+:root {
+    /* Colors */
+    --BG-Black-One: #080808;
+    --BG-Black-Two: #131313;
+    --Text-Color: white;
+    --Main-Green: #00ffee;
+
+    /* Fonts */
+    --Squares-Bold: 'Squares-Bold';
+    --Poppins-Regular: 'Poppins-Reglar';
+}
